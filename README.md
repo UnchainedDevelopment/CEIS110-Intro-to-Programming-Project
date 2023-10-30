@@ -23,7 +23,7 @@ To use this program, follow these steps:
 
     shell
 
-    git clone https://github.com/UnchainedDevelopment/CEIS110-Weather-Data-Analysis.git
+    git clone [https://github.com/UnchainedDevelopment/CEIS110-Weather-Data-Analysis.git](https://github.com/UnchainedDevelopment/CEIS110-Intro-to-Programming-Project.git)
 
     Install Dependencies: Ensure that you have all the necessary dependencies and libraries installed on your system. You may need to install Python and relevant packages for data analysis and visualization, such as NumPy, Pandas, and Matplotlib.
 
